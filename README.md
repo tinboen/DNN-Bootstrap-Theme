@@ -8,3 +8,5 @@ help users to view information from departments better and faster.
 2. User can download free Bootstrap Themes. The Bootstrap web pages can be modified by
 the desktop web editor Pinegrow (https://pinegrow.com/).  After finish editing the Bootstrap web page, 
 zip entire the directory in a specific folder name, and upload directly to DNN using this program.
+
+3. Using this application, user can create online help, FAQs, documents, company information, employees information, etc.
