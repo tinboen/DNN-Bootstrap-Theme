@@ -3,7 +3,7 @@
     <package name="DBH.BootstrapTheme" type="Module" version="01.00.00">
       <friendlyName>DBH Bootstrap Theme</friendlyName>
       <description>DBH Bootstrap Theme module</description>
-      <iconFile>~/images/DBH_Extension.gif</iconFile>
+      <iconFile>Images/th.jpg</iconFile>
       <owner>
         <name>Information Technology Section</name>
         <organization>Department of Beaches and Harbors</organization>
@@ -111,10 +111,7 @@
               <name>Settings.ascx</name>
             </file>
             <file>
-              <name>DepartmentList.xml</name>
-            </file>
-            <file>
-              <name>ModuleControl.xml</name>
+              <name>module.css</name>
             </file>
             <file>
               <name>License.txt</name>
